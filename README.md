@@ -1,2 +1,4 @@
 # Bamazon
-An amazon like app using mySQL
+An amazon like app using node and mySQL
+
+https://gfycat.com/valuabledescriptiveafricangoldencat
