@@ -1,5 +1,4 @@
 require("dotenv").config();
-var http = require("http");
 var mysql = require("mysql");
 var inquirer = require("inquirer");
 
